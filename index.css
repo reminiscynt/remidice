@@ -24,6 +24,13 @@ body {
     }
 }
 
+img {
+    display: block;
+    margin: auto;
+    width: 20%;
+    padding-top: 10px;
+}
+
 .container {
     position: fixed;
     top: 50%;
